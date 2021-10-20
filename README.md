@@ -7,11 +7,11 @@ Clone repository from Github. Install all neccessary modules using `npm install`
 
 ## Video Previews
 Video displaying how to setup tables - Use Schema, then SEED and start server.
-https://watch.screencastify.com/v/bn9HJZF05uuN1SqU90ym   /
+https://watch.screencastify.com/v/bn9HJZF05uuN1SqU90ym   
 
 
-Video displaying all routes through Insomnia.   /
-https://watch.screencastify.com/v/o8r02i1WxhY7E1gRVyM7  /
+Video displaying all routes through Insomnia./   
+https://watch.screencastify.com/v/o8r02i1WxhY7E1gRVyM7  
 
 
 ### User Story
