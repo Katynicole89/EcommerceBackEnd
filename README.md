@@ -6,11 +6,11 @@
 Clone repository from Github. Install all neccessary modules using `npm install`. To setup database, run `mysql -u root -p` and enter your password. To run schema, type `source db/schema.sql` , then type `exit;` to exit the MySql prompt. Then seed the database by typing `npm run seed`. Lastly to start the server run `npm start`.
 
 ## Video Previews
-Video displaying how to setup tables - Use Schema, then SEED and start server.
+Video displaying how to setup tables - Use Schema, then SEED and start server.\
 https://watch.screencastify.com/v/bn9HJZF05uuN1SqU90ym   
 
 
-Video displaying all routes through Insomnia./   
+Video displaying all routes through Insomnia.\  
 https://watch.screencastify.com/v/o8r02i1WxhY7E1gRVyM7  
 
 
